@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T04:18:16.354Z",
+  "updatedAt": "2026-09-20T04:26:08.496Z",
   "games": [
     {
       "universeId": 10155360168,
@@ -34,6 +34,24 @@
         "PvP",
         "Reflex",
         "IDK man this is a test"
+      ],
+      "scores": {
+        "gameplay": 10,
+        "polish": 10,
+        "artDirection": 10,
+        "originality": 10,
+        "playerRespect": 10
+      }
+    },
+    {
+      "universeId": 1359573625,
+      "placeId": 4111023553,
+      "title": "Deepwoken",
+      "score": 10,
+      "awardedAt": "2026-09-20",
+      "review": "absolute cinema",
+      "tags": [
+        "banger"
       ],
       "scores": {
         "gameplay": 10,
