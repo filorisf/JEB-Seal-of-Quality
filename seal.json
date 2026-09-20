@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T04:35:37.140Z",
+  "updatedAt": "2026-09-20T13:34:42.757Z",
   "games": [
     {
       "universeId": 10155360168,
@@ -77,6 +77,24 @@
         "artDirection": 7.2,
         "originality": 7.1,
         "playerRespect": 7.2
+      }
+    },
+    {
+      "universeId": 10624691669,
+      "placeId": 134208374070897,
+      "title": "MONOCHROME👁️",
+      "score": 9.1,
+      "awardedAt": "2026-09-20",
+      "review": "sas sas sa sa saasasa\n\njeu très cool",
+      "tags": [
+        "sas"
+      ],
+      "scores": {
+        "gameplay": 9.1,
+        "polish": 9.1,
+        "artDirection": 9.1,
+        "originality": 9.1,
+        "playerRespect": 9.1
       }
     }
   ]
