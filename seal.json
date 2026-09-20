@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T04:17:09.776Z",
+  "updatedAt": "2026-09-20T04:18:16.354Z",
   "games": [
     {
       "universeId": 10155360168,
@@ -21,6 +21,26 @@
         "artDirection": 8.7,
         "originality": 9.6,
         "playerRespect": 8.9
+      }
+    },
+    {
+      "universeId": 4777817887,
+      "placeId": 13772394625,
+      "title": "Blade Ball",
+      "score": 10,
+      "awardedAt": "2026-09-20",
+      "review": "peak",
+      "tags": [
+        "PvP",
+        "Reflex",
+        "IDK man this is a test"
+      ],
+      "scores": {
+        "gameplay": 10,
+        "polish": 10,
+        "artDirection": 10,
+        "originality": 10,
+        "playerRespect": 10
       }
     }
   ]
