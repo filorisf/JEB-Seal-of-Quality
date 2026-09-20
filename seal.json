@@ -1,23 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T04:00:00Z",
+  "updatedAt": "2026-09-20T05:13:00Z",
   "games": [
     {
-      "universeId": 123456789,
-      "placeId": 987654321,
-      "score": 9.2,
+      "universeId": 10155360168,
+      "placeId": 126987974021910,
+      "title": "Illegal Soccer",
+      "score": 9.0,
       "awardedAt": "2026-09-20",
-      "review": "Excellent gameplay, très belle direction artistique et finition remarquable.",
+      "review": "Illegal Soccer takes a simple 4v4 football formula and turns it into something genuinely distinctive. Guns, grappling hooks, jetpacks and other disruptive tools create constant chaos without making the ball irrelevant. Its rules are immediately understandable, matches are fast and social, and the game commits fully to its absurd concept instead of feeling like a gimmick layered over generic Roblox gameplay. Some of its systems and content still have room to mature, but its strong identity, readable design and highly replayable multiplayer loop make it an excellent example of what the JEB Seal of Quality is meant to highlight.",
       "tags": [
-        "Adventure",
+        "Sports",
+        "Multiplayer",
+        "4v4",
+        "Chaotic",
+        "Original",
         "Polished"
       ],
       "scores": {
-        "gameplay": 9.4,
-        "polish": 9.3,
-        "artDirection": 9.5,
-        "originality": 8.9,
-        "playerRespect": 9.0
+        "gameplay": 9.0,
+        "polish": 8.8,
+        "artDirection": 8.7,
+        "originality": 9.6,
+        "playerRespect": 8.9
       }
     }
   ]
