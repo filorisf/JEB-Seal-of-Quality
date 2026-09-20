@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-20T04:00:00Z",
+  "games": [
+    {
+      "universeId": 123456789,
+      "placeId": 987654321,
+      "score": 9.2,
+      "awardedAt": "2026-09-20",
+      "review": "Excellent gameplay, très belle direction artistique et finition remarquable.",
+      "tags": [
+        "Adventure",
+        "Polished"
+      ],
+      "scores": {
+        "gameplay": 9.4,
+        "polish": 9.3,
+        "artDirection": 9.5,
+        "originality": 8.9,
+        "playerRespect": 9.0
+      }
+    }
+  ]
+}
