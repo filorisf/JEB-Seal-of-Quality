@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T05:13:00Z",
+  "updatedAt": "2026-09-20T04:17:09.776Z",
   "games": [
     {
       "universeId": 10155360168,
       "placeId": 126987974021910,
-      "title": "Illegal Soccer",
-      "score": 9.0,
+      "title": "[RANKED!] Illegal Soccer",
+      "score": 9,
       "awardedAt": "2026-09-20",
       "review": "null",
       "tags": [
@@ -16,7 +16,7 @@
         "Original"
       ],
       "scores": {
-        "gameplay": 9.0,
+        "gameplay": 9,
         "polish": 8.8,
         "artDirection": 8.7,
         "originality": 9.6,
