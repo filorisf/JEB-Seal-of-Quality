@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T15:39:17.148Z",
+  "updatedAt": "2026-10-10T15:40:45.288Z",
   "games": [
     {
       "universeId": 10155360168,
@@ -77,6 +77,22 @@
         "artDirection": 7.2,
         "originality": 7.1,
         "playerRespect": 7.2
+      }
+    },
+    {
+      "universeId": 2440500124,
+      "placeId": 6516141723,
+      "title": "DOORS 🚨",
+      "score": 9.5,
+      "awardedAt": "2026-10-10",
+      "review": null,
+      "tags": [],
+      "scores": {
+        "gameplay": 9.2,
+        "polish": 9.8,
+        "artDirection": 9.8,
+        "originality": 9.5,
+        "playerRespect": 9.3
       }
     }
   ]
