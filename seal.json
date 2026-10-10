@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T15:37:59.430Z",
+  "updatedAt": "2026-10-10T15:39:17.148Z",
   "games": [
     {
       "universeId": 10155360168,
@@ -27,7 +27,7 @@
       "universeId": 4777817887,
       "placeId": 13772394625,
       "title": "Blade Ball",
-      "score": 10,
+      "score": 7.9,
       "awardedAt": "2026-09-20",
       "review": "peak",
       "tags": [
@@ -36,10 +36,10 @@
         "IDK man this is a test"
       ],
       "scores": {
-        "gameplay": 10,
-        "polish": 10,
-        "artDirection": 10,
-        "originality": 10,
+        "gameplay": 9,
+        "polish": 8,
+        "artDirection": 5,
+        "originality": 7.5,
         "playerRespect": 10
       }
     },
